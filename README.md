@@ -159,9 +159,9 @@ Observa-se, conquanto, a necessidadae de automação na geração do produto, vi
 
 ## 💡 Aprendizados Principais
 
-1. **Aprendizado 1:** 
-2. **Aprendizado 2:** 
-3. **Aprendizado 3:** 
+- **Critérios definidos antes do teste.** Metas e regra de decisão (perseverar, ajustar, pivotar ou abandonar) foram fixadas antes da coleta. Assim, o gargalo de tempo (1,5h por contrato, contra a meta de 1h) foi registrado como tal, sem reinterpretar os resultados.
+- **MVP manual valida valor sem código.** Landing page, formulários e contrato entregue manualmente bastaram para testar problema, solução e disposição de pagar com usuários reais. A operação manual também mostrou o que precisa ser automatizado primeiro.
+- **A IA apoia, o usuário valida.** Usei IA para estruturar hipóteses e gerar as minutas, mas a decisão veio das evidências. Com 6 usuários concluintes, os resultados são um sinal forte, não prova de mercado: o próximo passo é testar com pagamento real.
 
 
 ---
