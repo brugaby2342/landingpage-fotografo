@@ -1,7 +1,7 @@
 <h1 align="center">Gerador Guiado de Contratos para Fotógrafos</h1> <br/>
 
 <p align="center"><img src = "https://img.shields.io/badge/MVP-Landing%20Page-violet" /><br/>
-<p align="center"><img src = "https://img.shields.io/badge/Versão-Anterior%20ao%20Experimento-brightgreen" /><br/>
+<p align="center"><img src = "https://img.shields.io/badge/Versão-Final-brightgreen" /><br/>
  
 
 > Um produto digital voltado para resolver um dos maiores gargalos de profissionais autônomos: a formalização de serviços fotográficos de forma simples, acessível e juridicamente segura.
@@ -159,10 +159,15 @@ Observa-se, conquanto, a necessidadae de automação na geração do produto, vi
 
 ## 💡 Aprendizados Principais
 
-- **Critérios definidos antes do teste.** Metas e regra de decisão (perseverar, ajustar, pivotar ou abandonar) foram fixadas antes da coleta. Assim, o gargalo de tempo (1,5h por contrato, contra a meta de 1h) foi registrado como tal, sem reinterpretar os resultados.
-- **MVP manual valida valor sem código.** Landing page, formulários e contrato entregue manualmente bastaram para testar problema, solução e disposição de pagar com usuários reais. A operação manual também mostrou o que precisa ser automatizado primeiro.
-- **A IA apoia, o usuário valida.** Usei IA para estruturar hipóteses e gerar as minutas, mas a decisão veio das evidências. Com 6 usuários concluintes, os resultados são um sinal forte, não prova de mercado: o próximo passo é testar com pagamento real.
+- **Validar o problema antes de construir a solução**
+O Discovery serve para confirmar, com evidências, que o problema existe, é relevante e que as pessoas se importam o bastante para pagar ou mudar de hábito, antes de escrever uma linha de código.
+- **Lean Canvas como conjunto de hipóteses.** Problema, solução e valor são separados, cada um com métrica e meta, deixando explícito o que ainda é suposição e o que precisa descobrir.
+- **Falar com usuários reais**
+Entrevistas e testes revelam o que as pessoas fazem e como resolvem o problema hoje, e não apenas o que elas opinam. Perguntar “você usaria isso?” gera respostas educadas e pouco confiáveis; enquanto perguntar “como você resolveu isso da última vez?” gera dados de comportamento reais.
+- **Começar pelo MVP e tratar hipóteses como hipóteses**
+O MVP não é um produto “incompleto”, é o menor experimento capaz de testar a hipótese mais arriscada. Os resultados guiam a decisão de perseverar, ajustar, pivotar ou abandonar, com base em métricas e não em deduções.
 
+*Construir a coisa certa (validação) e construir do jeito certo (agilidade) são partes do mesmo ciclo: hipótese → experimento → aprendizado → ajuste.*
 
 ---
 
