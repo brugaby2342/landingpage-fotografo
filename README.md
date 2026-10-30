@@ -113,22 +113,25 @@ As metas foram definidas com base na participação de pelo menos 5 usuários re
 
 ## Resultados
 ### Métricas Alcançadas
-- **Taxa de Conclusão do Funil:** [%] dos usuários completaram o fluxo completo (cadastro, formulário, recebimento e entrevista).
-- **Nota Média de Satisfação:** [] (Meta estabelecida: $\ge$ 7).
-- **Disposição de Pagar:** [] dos participantes declararam intenção real de pagamento pelo serviço.
-- **Intenção de Reuso:** [] afirmaram que usariam a ferramenta novamente nos próximos trabalhos.
-- **Tempo Médio de Produção:** [] por contrato (Meta: até 1 hora).
+- **Taxa de Conclusão do Funil:** 75% dos usuários completaram o fluxo completo (cadastro, formulário, recebimento e entrevista).
+- **Nota Média de Satisfação:** 9,1 (Meta estabelecida: $\ge$ 7).
+- **Disposição de Pagar:** 100% dos participantes declararam intenção real de pagamento pelo serviço.
+- **Intenção de Reuso:** 60% afirmaram que usariam a ferramenta novamente nos próximos trabalhos.
+- **Tempo Médio de Produção:** 1,5h por contrato (Meta: até 1 hora).
 
 ### Planilha de Evidências
-O acompanhamento detalhado de cada participante, funil de conversão e validação das hipóteses está centralizado na [Planilha de Evidências].
+O acompanhamento detalhado de cada participante, funil de conversão e validação das hipóteses está centralizado na [Planilha de Evidências](https://docs.google.com/spreadsheets/d/19JyFGZ9nSHK5WIavCcV0ugZElcrlueQ31Ehy5QOn_TU/edit?usp=drive_link).
 
 ---
 
 ## Análise e Decisão
 
-- **Validação do Problema:** `[DESCREVER SE OS FOTÓGRAFOS CONFIRMARAM O RISCO DE TRABALHAR SEM CONTRATO E COMO O RESOLVIAM ANTES]`.
-- **Avaliação da Solução:** `[ANALISAR SE O CONTEÚDO GERADO FOI COMPREENSÍVEL E ATENDEU ÀS NECESSIDADES ESPECÍFICAS DA FOTOGRAFIA]`.
-- **Análise de Valor e Preço:** `[COMENTAR SE A PERCEPÇÃO DE UTILIDADE JUSTIFICA O VALOR PROPOSTO DE R$ 37,50 OU SE HOUVE RESISTÊNCIA]`.
+- **Validação do Problema:** 83,3% dos usuários confirmaram sentir dores na formalização; 66,7%
+formalizavam apenas via WhatsApp e 33,3% usavam modelos genéricos da internet ou já
+haviam enfrentado conflitos.
+- **Avaliação da Solução:** 100% dos participantes leram e compreenderam a minuta enviada, não encontraram falhas
+inviabilizantes e destacaram o ganho de credibilidade. 75% completaram o fluxo.
+- **Análise de Valor e Preço:** Todos os usuários que concluíram o fluxo afirmaram que utilizariam novamente o serviço e o recomendariam a outros.
 
 
 ### Decisão final
@@ -144,7 +147,13 @@ O acompanhamento detalhado de cada participante, funil de conversão e validaç�
 
 *Com base nas metas fixadas antes do experimento, a decisão para o projeto foi:* 
 
+**<span style="color: green;">PERSEVERAR</span>**
+na proposta.
+
 ### Justificativa
+
+Todas as 3 hipóteses (problema, solução e valor) foram validadas, tendo grande parte das metas superadas. A hipótese de dor, a maior dúvida a ser dirimida, mostrou-se relevante.</br>
+Observa-se, conquanto, a necessidadae de automação na geração do produto, visto que foi o ponto fraco apresentado.
 
 ---
 
@@ -162,27 +171,29 @@ O acompanhamento detalhado de cada participante, funil de conversão e validaç�
 O ecossistema do projeto foi construído priorizando agilidade na validação (*Concierge MVP*), baixo custo de operação e eficiência na automação do fluxo:
 
 - **Inteligência Artificial & Discovery:**
-  - **Claude (Anthropic):** 
+  - **Claude (Anthropic)** 
 
 - **Captura de Leads e Formulários:**
-  - **Tally.so:** 
+  - **Tally.so** 
 
 - **Gestão, Análise e Métricas:**
-  - **Google Sheets:** 
+  - **Google Sheets** 
 
-- **Comunicação e Entrega:**
+- **Comunicação e Entrega**
   - **WhatsApp:** 
+
+---
 
 ## 📂 Estrutura e Materiais
 
-- **[Lean Canvas]:** Modelagem completa do modelo de negócio.
-- **[Planilha de Viabilidade e Evidências]:** Cálculos de margem, ponto de equilíbrio e acompanhamento do funil de testes.
-- **Landing Page & Formulários:** Estrutura de captação de leads e coleta de dados do projeto.
+- **[Lean Canvas](https://drive.google.com/file/d/1yz5U-7i8a1Smgn7bEWwWjx6VlHKXFvTQ/view?usp=drive_link):** Modelagem completa do modelo de negócio.
+- **[Planilha de Viabilidade e Evidências](https://docs.google.com/spreadsheets/d/19JyFGZ9nSHK5WIavCcV0ugZElcrlueQ31Ehy5QOn_TU/edit?usp=drive_link):** Cálculos de margem, ponto de equilíbrio e acompanhamento do funil de testes.
+- **[Landing Page](https://brugaby2342.github.io/landpage-fotografo/) & [Formulário Cadastro](https://tally.so/r/vG7QR8) & [Formulário Coleta de Dadaos:](https://tally.so/r/Nq5opN)** Estrutura de captação de leads e coleta de dados do projeto.
 
 
 ---
 
-
+*P.S.: O teste não está mais disponível, razão pela qual a landing page e os formulários têm função meramente demonstrativas.*
 
 Autora: Bruna Gabriela R. Sartor
 
