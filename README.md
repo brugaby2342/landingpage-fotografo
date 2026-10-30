@@ -22,7 +22,7 @@ O projeto foi construído seguindo premissas rigorosas de validação de mercado
 
 ---
 
-## Problema e público
+## 👥 Problema e público
 Muitos fotógrafos freelancers executam seus projetos sem um contrato formal, confiando apenas em acordos verbais ou mensagens informais. Isso muitas vezes os expõe a riscos operacionais e financeiros, como:
 - Cancelamentos de última hora sem sinal de pagamento;
 - Clientes que desaparecem antes da quitação do saldo;
@@ -48,7 +48,7 @@ A proposta consiste em um questionário guiado que traduz as necessidades do fot
 
 ---
 
-## Benchmark
+## 📈 Benchmark
 > Alternativas hoje 
 
 | ALTERNATIVA | PREÇO POR CONTRATO | PERSONALIZAÇÃO | PONTO FRACO |
@@ -62,7 +62,7 @@ A proposta consiste em um questionário guiado que traduz as necessidades do fot
 
 ---
 
-## Hipóteses
+## 📝 Hipóteses
 
 | HIPÓTESE | O QUE SE TESTA | CRITÉRIO PARA VALIDAR |
 | :--- | :--- | :--- |
@@ -81,7 +81,7 @@ Validade jurídica garantida, parecer jurídico ou substituição de um advogado
 
 ---
 
-## MVP e Experimento
+## 🔬 MVP e Experimento
 
 O questionamento principal neste momento consiste em verificar se os profissionais de fotografia autônomos percebem a dificuldade de atuar sem um acordo formal e se um documento pronto, desenhado especificamente para eles, possui valor prático. </br>
 
@@ -97,7 +97,7 @@ A validação ocorre por meio de um MVP concierge, com investimento reduzido: um
 
 ---
 
-## Métricas e metas
+## 🎯 Métricas e metas
 As metas foram definidas com base na participação de pelo menos 5 usuários reais.
 
 | MÉTRICA | META |
@@ -111,7 +111,7 @@ As metas foram definidas com base na participação de pelo menos 5 usuários re
 
 ---
 
-## Resultados
+## 🔚 Resultados
 ### Métricas Alcançadas
 - **Taxa de Conclusão do Funil:** 75% dos usuários completaram o fluxo completo (cadastro, formulário, recebimento e entrevista).
 - **Nota Média de Satisfação:** 9,1 (Meta estabelecida: $\ge$ 7).
@@ -124,7 +124,7 @@ O acompanhamento detalhado de cada participante, funil de conversão e validaç�
 
 ---
 
-## Análise e Decisão
+## 🧐 Análise e Decisão
 
 - **Validação do Problema:** 83,3% dos usuários confirmaram sentir dores na formalização; 66,7%
 formalizavam apenas via WhatsApp e 33,3% usavam modelos genéricos da internet ou já
