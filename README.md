@@ -58,7 +58,7 @@ A proposta consiste em um questionário guiado que traduz as necessidades do fot
 | **Advogado** | R$ 300,00 a R$ 1000,00 | Alta | Preço fora do alcance de quem fecha trabalhos pequenos |
 | **Não fazer contrato** | R$ 00,00 | Nenhuma | Exposição a cancelamentos e conflitos | 
 | **Esta proposta** | R$ 37,50 (hipótese) | Média a Alta | Não substitui advogado |
-|
+
 ---
 
 ## 📝 Hipóteses
@@ -68,7 +68,7 @@ A proposta consiste em um questionário guiado que traduz as necessidades do fot
 | **Problema** | Fotógrafos autônomos fecham serviços sem contrato escrito e sentem o risco disso | 3 de 5 confirmam | 
 | **Solução** | Um questionário guiado que gera o contrato resolve o problema melhor que as alternativas | 3 de 5 leem o contrato e não apontam falha que o inviabilize, e 60% dos cadastrados concluem o formulário de dados |
 | **Valor** | Um questionário guiado que gera o contrato resolve o problema melhor que as alternativas | 3 de 5 dizem que usariam de novo (meta de 60%) |
-| 
+
 ### Proposta de valor
 > *Não deixe seu próximo projeto começar sem um contrato: feche-o com mais segurança e sem complicação. </br>
 Formalize seus serviços fotográficos com um contrato claro e personalizado, elaborado a partir das condições, prazos e responsabilidades combinados com seu cliente, mesmo trabalhando por conta própria e sem uma equipe jurídica.*
@@ -104,7 +104,6 @@ As metas foram definidas com base na participação de pelo menos 5 usuários re
 | **Disposição de pagar** | 40% |
 | **Possibilidade de usar o serviço novamente** | 60% |
 | **Tempo gasto por contrato** | até 1 hora |
-|  |
 
 ---
 
@@ -138,7 +137,6 @@ inviabilizantes e destacaram o ganho de credibilidade.
 | **Ajustar** | O problema é confirmado, mas solução ou valor ficam abaixo do critério. Muda-se a solução ou formato e testa-se de novo |
 | **Pivotar** | O problema do contrato não é contundente, mas as conversas revelam outra dor mais relevante. Muda-se a hipótese e começa um novo ciclo |
 | **Abandonar** | Menos de 3 de 5 confirmam o problema, os fotógrafos já resolvem de forma satisfatória e nenhuma outra dor se destaca |
-|  |
 
 ### Decisão tomada
 
