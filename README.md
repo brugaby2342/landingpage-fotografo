@@ -58,8 +58,7 @@ A proposta consiste em um questionário guiado que traduz as necessidades do fot
 | **Advogado** | R$ 300,00 a R$ 1000,00 | Alta | Preço fora do alcance de quem fecha trabalhos pequenos |
 | **Não fazer contrato** | R$ 00,00 | Nenhuma | Exposição a cancelamentos e conflitos | 
 | **Esta proposta** | R$ 37,50 (hipótese) | Média a Alta | Não substitui advogado |
-|  |
-
+|
 ---
 
 ## 📝 Hipóteses
@@ -69,9 +68,7 @@ A proposta consiste em um questionário guiado que traduz as necessidades do fot
 | **Problema** | Fotógrafos autônomos fecham serviços sem contrato escrito e sentem o risco disso | 3 de 5 confirmam | 
 | **Solução** | Um questionário guiado que gera o contrato resolve o problema melhor que as alternativas | 3 de 5 leem o contrato e não apontam falha que o inviabilize, e 60% dos cadastrados concluem o formulário de dados |
 | **Valor** | Um questionário guiado que gera o contrato resolve o problema melhor que as alternativas | 3 de 5 dizem que usariam de novo (meta de 60%) |
-| **Disposição de pagar** | Pagariam por um serviço assim (apenas intenção declarada) | 2 de 5 confirmam |
-| |
-
+| 
 ### Proposta de valor
 > *Não deixe seu próximo projeto começar sem um contrato: feche-o com mais segurança e sem complicação. </br>
 Formalize seus serviços fotográficos com um contrato claro e personalizado, elaborado a partir das condições, prazos e responsabilidades combinados com seu cliente, mesmo trabalhando por conta própria e sem uma equipe jurídica.*
@@ -102,10 +99,10 @@ As metas foram definidas com base na participação de pelo menos 5 usuários re
 
 | MÉTRICA | META |
 | :--- | :--- |
-| **Formulários completos** *(cadastro + dados + contrato enviado + conversa feita)* | Fotógrafos autônomos fecham serviços sem contrato escrito e sentem o risco disso | 60% |
-| **Nota de avaliação do contrato** | Um questionário guiado que gera o contrato resolve o problema melhor que as alternativas | 7 ou mais |
-| **Disposição de pagar** | Um questionário guiado que gera o contrato resolve o problema melhor que as alternativas | 40% |
-| **Possibilidade de usar o serviço novamente** | Pagariam por um serviço assim (apenas intenção declarada) | 60% |
+| **Formulários completos** *(cadastro + dados + contrato enviado + conversa feita)* | 60% |
+| **Nota de avaliação do contrato** | 7 ou mais |
+| **Disposição de pagar** | 40% |
+| **Possibilidade de usar o serviço novamente** | 60% |
 | **Tempo gasto por contrato** | até 1 hora |
 |  |
 
@@ -116,7 +113,7 @@ As metas foram definidas com base na participação de pelo menos 5 usuários re
 - **Taxa de Conclusão do Funil:** 75% dos usuários completaram o fluxo completo (cadastro, formulário, recebimento e entrevista).
 - **Nota Média de Satisfação:** 9,1 (Meta estabelecida: $\ge$ 7).
 - **Disposição de Pagar:** 100% dos participantes declararam intenção real de pagamento pelo serviço.
-- **Intenção de Reuso:** 60% afirmaram que usariam a ferramenta novamente nos próximos trabalhos.
+- **Intenção de Reuso:** 100% afirmaram que usariam a ferramenta novamente nos próximos trabalhos.
 - **Tempo Médio de Produção:** 1,5h por contrato (Meta: até 1 hora).
 
 ### Planilha de Evidências
@@ -130,7 +127,7 @@ O acompanhamento detalhado de cada participante, funil de conversão e validaç�
 formalizavam apenas via WhatsApp e 33,3% usavam modelos genéricos da internet ou já
 haviam enfrentado conflitos.
 - **Avaliação da Solução:** 100% dos participantes leram e compreenderam a minuta enviada, não encontraram falhas
-inviabilizantes e destacaram o ganho de credibilidade. 75% completaram o fluxo.
+inviabilizantes e destacaram o ganho de credibilidade. 
 - **Análise de Valor e Preço:** Todos os usuários que concluíram o fluxo afirmaram que utilizariam novamente o serviço e o recomendariam a outros.
 
 
